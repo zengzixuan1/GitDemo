@@ -1,0 +1,2 @@
+# GitDemo
+用于演示如何使用gitj将代码传送到GitHub的演示仓库
