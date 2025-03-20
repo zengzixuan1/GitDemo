@@ -2,7 +2,7 @@
 用于演示如何使用gitj将代码传送到GitHub的演示仓库
 # 懂王的自我介绍
 
-<img src="https://baike.sogou.com/v1919526.htm?fromTitle=%E5%94%90%E7%BA%B3%E5%BE%B7%C2%B7%E7%89%B9%E6%9C%97%E6%99%AE.jpg" width="200" alt="川普形象">
+<img src="https://pic.baike.soso.com/ugc/baikepic2/0/20241106183245-351805887_jpg_650_837_395565.jpg/800" width="200" alt="川普形象">
 
 大家好，我是**川普**，我的身份是*美国47任美国总统*。以下是我的自我介绍：
 
